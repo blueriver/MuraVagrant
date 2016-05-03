@@ -1,0 +1,5 @@
+<Context
+	docBase="/var/www/html" 
+	path=""
+	reloadable="true"
+/>
