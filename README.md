@@ -33,7 +33,7 @@ You'll now be walked through MuraCMS's configuration screens.
 
 1. Database
 	* Select `MySQL` from the dropdown list
-	* Use an existing database
+	* Keep `Use an existing database` selected
 	* Set `mura` as the datasource name
 	* Leave database username blank
 	* Leave database password blank
@@ -44,7 +44,7 @@ You'll now be walked through MuraCMS's configuration screens.
 	* Set a `Super Admin` email, can not be left blank
 
 3. Options
-	* Keep `Do not use SiteID in URLs`
+	* Keep `Do not use SiteID in URLs` selected
 	* Set `Do not use "index.cfm" in URLs`
 
 
