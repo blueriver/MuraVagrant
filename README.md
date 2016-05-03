@@ -4,7 +4,7 @@ A development environment for [MuraCMS](http://www.getmura.com) using [Vagrant](
 
 ## Prerequisites
 
-You will need the following applications to setup the Ghost development environment:
+You will need the following applications to set up the development environment:
 
 - [Vagrant](http://www.vagrantup.com/downloads.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -50,4 +50,4 @@ You'll now be walked through MuraCMS's configuration screens.
 
 ## Lucee
 
-You can access the Lucee Admin by navigating to `local.getmura.com/lucee/admin.cfm`.
+You can access the Lucee Admin by navigating to `local.getmura.com/lucee/admin.cfm` in your browser.
