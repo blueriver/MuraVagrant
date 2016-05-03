@@ -42,7 +42,7 @@ sleep 5
 #wget lucee jars
 wget https://codeload.github.com/blueriver/MuraCMS/zip/master -O "/opt/mura.zip"
 unzip -o /opt/mura.zip -d /opt
-cp -R /opt/MuraCMS-master/ /var/www/html
+cp -R /opt/MuraCMS-master/* /var/www/html
 chmod 775 -R /var/www/html
 
 mysql -u root -e "create database if not exists mura;"
